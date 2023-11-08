@@ -1,5 +1,5 @@
 
-# EMI Installment Analysis using Deep Learning
+# EMI Instalment Analysis using Deep Learning
 
 This project focused on predicting whether a person will pay his/her EMI (Equated Monthly Installment) in the next month using deep learning techniques. The project utilizes a Sequential Model to analyze the data and make predictions.
 
