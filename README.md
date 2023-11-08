@@ -95,7 +95,7 @@ A Sequential Deep Learning model is implemented in this project to learn from th
 ## Result
 The project provides insights into the predictive capabilities of the deep learning model, which can be invaluable for risk assessment in the lending industry.
 ## Usage
-You can use this repository to explore the code, data, and model implementation. Follow the instructions in the documentation to replicate the analysis and make your predictions based on your own data with 73% od accuracy.
+You can use this repository to explore the code, data, and model implementation. Follow the instructions in the documentation to replicate the analysis and make your predictions based on your own data with 77% od accuracy.
 
 
 ## Contributor
